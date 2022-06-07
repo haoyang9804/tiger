@@ -1,7 +1,0 @@
-{
-    "makefile.extensionOutputFolder": "./.vscode",
-    "files.associations": {
-        "slp.h": "c",
-        "util.h": "c"
-    }
-}
